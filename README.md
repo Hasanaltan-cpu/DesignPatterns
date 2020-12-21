@@ -133,7 +133,7 @@ Defines a new operation to a class without change
 
 ![img](https://gblobscdn.gitbook.com/assets%2F-MOvkEq9XcvZ_Ts2jyIl%2F-MP42KF8pbP8fIkpl3XV%2F-MP42rw9Tr-DpXnKVTw2%2Fbehaviour2.png?alt=media&token=6bba112d-e382-4142-b90f-769cf83c3490)
 
-Loosely Coupled
+## Loosely Coupled
 It means classes which is contained with the others should be loosely coupled.Furthermore,if developer wants to change anything in his codes,he can easly change thanks to loosely coupled if they were storngly coupled,he should write every properties of that class again,totally spending time ineffiecently.
 Dependency Injection
 That's why Dependency injection is used for application which may need some changing one day.Dependency injection can apply with 2 ways;
