@@ -141,3 +141,6 @@ That's why Dependency injection is used for application which may need some chan
 [Constructor Injection(Constructor Based Dependecy Injection)](https://github.com/Hasanaltan-cpu/DesignPatterns/tree/master/DesignPatterns/Entities/Concrete)
 
 Setter Injection(Setter Based Dependency Injection)
+
+
+Visit me! https://hsnaltan13.gitbook.io/design-patterns/
