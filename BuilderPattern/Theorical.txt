@@ -1,0 +1,9 @@
+﻿Builder pattern
+
+It is belongs to Creational Design pattern groups.Object's what is complex,properties seperate from real building and  create delegate on the same process.
+
+Builder Design Components:
+1-IBuilder : In this class we are assigned methods what we use.
+2-Builder :In this concrete class is inherited from IBuilder by this way we ve created a rule for the Builder class.
+3-Directory:In this class our final class , we connected all components and we get prepared for use.
+4-Delegate:In this class we hold all entities name and properties.

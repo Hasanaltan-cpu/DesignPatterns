@@ -1,0 +1,15 @@
+﻿This is the most popular design between the design patterns.Its usage ratio is %80 in terms of International standart.Main purpose of it is just one object is created and always developer can reach it easily.
+
+For instance;
+Singleton gives us an oppurtunity to control  object situation which is obtained on the BusinessLayer and is used for CRUD operations.
+Other example;
+At the creating object step,we want to give a special condition for an object (as Encapsulation),Singleton provides us this process.
+
+Object which is created with Singleton always is stored on the HEAP part of RAM until ISS server reset.That's why we should be carefull when we use singleton.
+Developer has two important question before creating object by the Singleton;
+1-What is the object job?
+2-Do u always use this object?
+
+As a conclusion,object which was created by Singleton can be hazardous when its job is not controlling situation.
+
+
