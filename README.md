@@ -21,7 +21,7 @@ Creates an instance of several families of classes
 
 ![Image](https://gblobscdn.gitbook.com/assets%2F-MOvkEq9XcvZ_Ts2jyIl%2F-MP42KF8pbP8fIkpl3XV%2F-MP42rw2jcmIcJDuSL2X%2FAbstract_Factory-preview.png?alt=media&token=752b3152-419e-4bfc-b021-12acc78d5cbb)
 
-2-Builder
+2-[Builder](https://github.com/Hasanaltan-cpu/DesignPatterns/tree/master/BuilderPattern)
 
 Separates object construction from its representation
 
@@ -35,9 +35,10 @@ Avoid expensive acquisition and release of resources by recycling objects that a
 5-Prototype
 A fully initialized instance to be copied or cloned
 
-6-Singleton
+6-[Singleton](https://github.com/Hasanaltan-cpu/DesignPatterns/tree/master/SingletonPattern)
 
 A class of which only a single instance can exist
+
 
 ## Structural design patterns
 These design patterns are all about Class and Object composition. Structural class-creation patterns use inheritance to compose interfaces. Structural object-patterns define ways to compose objects to obtain new functionality.
@@ -132,7 +133,7 @@ Defines a new operation to a class without change
 
 ![img](https://gblobscdn.gitbook.com/assets%2F-MOvkEq9XcvZ_Ts2jyIl%2F-MP42KF8pbP8fIkpl3XV%2F-MP42rw9Tr-DpXnKVTw2%2Fbehaviour2.png?alt=media&token=6bba112d-e382-4142-b90f-769cf83c3490)
 
-Loosely Coupled
+## Loosely Coupled
 It means classes which is contained with the others should be loosely coupled.Furthermore,if developer wants to change anything in his codes,he can easly change thanks to loosely coupled if they were storngly coupled,he should write every properties of that class again,totally spending time ineffiecently.
 Dependency Injection
 That's why Dependency injection is used for application which may need some changing one day.Dependency injection can apply with 2 ways;
@@ -140,3 +141,6 @@ That's why Dependency injection is used for application which may need some chan
 [Constructor Injection(Constructor Based Dependecy Injection)](https://github.com/Hasanaltan-cpu/DesignPatterns/tree/master/DesignPatterns/Entities/Concrete)
 
 Setter Injection(Setter Based Dependency Injection)
+
+
+Visit me! https://hsnaltan13.gitbook.io/design-patterns/
