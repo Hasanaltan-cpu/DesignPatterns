@@ -13,11 +13,7 @@ namespace BuilderPattern.Part1.Directories
         public void Constructor(IBuilder builder)
         {
             builder.ChickenBurger();
-            
-
             builder.Hamburger();
-       
-
         }
     }
 }

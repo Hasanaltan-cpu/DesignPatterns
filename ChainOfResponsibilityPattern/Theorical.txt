@@ -1,0 +1,6 @@
+﻿ChainOfResponsibility Pattern
+
+This pattern principle is to derive handler which comes any request with responsible chain.For instance;
+Call center.If u call any call center, u wait until reach responsible person.In that scenario,u speak first person who is first caller and u ask for changing but first caller has not responsible for that.Probably,he says "Ok,i will direct u to responsible departmant" and then person who is responsible about ur demand can solve your problem.
+
+This pattern is very common our real life.Every handler connected with responsible handler.But first handler if it has not enough capacity,it can be problem.
