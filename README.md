@@ -85,7 +85,7 @@ These design patterns are all about Class's objects communication. Behavioral pa
 
 
 
-1-Chain of responsibility
+[1-Chain of responsibility](https://github.com/Hasanaltan-cpu/DesignPatterns/tree/master/ChainOfResponsibilityPattern)
 
 A way of passing a request between a chain of objects
 
