@@ -57,7 +57,7 @@ Separates an object’s interface from its implementation
 
 A tree structure of simple and composite objects
 
-4-Decorator
+[4-Decorator](https://github.com/Hasanaltan-cpu/DesignPatterns/tree/master/DecoratorPattern)
 
 Add responsibilities to objects dynamically
 
