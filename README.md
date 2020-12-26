@@ -25,14 +25,16 @@ Creates an instance of several families of classes
 
 Separates object construction from its representation
 
-3-Factory Method
+[3-Factory Method](https://github.com/Hasanaltan-cpu/DesignPatterns/tree/master/FactoryMethodPattern)
 
 Creates an instance of several derived classes
 
 4-Object Pool
+
 Avoid expensive acquisition and release of resources by recycling objects that are no longer in use
 
 5-Prototype
+
 A fully initialized instance to be copied or cloned
 
 [6-Singleton](https://github.com/Hasanaltan-cpu/DesignPatterns/tree/master/SingletonPattern)
@@ -112,7 +114,7 @@ Capture and restore an object's internal state
 
 Designed to act as a default value of an object
 
-8-Observer
+[8-Observer](https://github.com/Hasanaltan-cpu/DesignPatterns/tree/master/ObserverPattern)
 
 A way of notifying change to a number of classes
 
