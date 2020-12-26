@@ -1,0 +1,3 @@
+﻿Factory Method
+
+This design interest in creating object.It belongs to Creational Design Pattern.Logic of Factory Design Pattern is creating object without any request.If client wants to create an object , it reaches same interface and easily can create an object.Creating an interface is rule for creating object.By this way,we don't need to use "new" for the other classes.

@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPatter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{5811DDBE-773C-48D8-BBC3-29B0D7A5C9A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{8F094A80-BFBA-4CCE-B5CB-DD3E62EE53BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPattern", "FactoryMethodPattern\FactoryMethodPattern.csproj", "{C560D63D-E230-4463-8E41-82E4C1EE503A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{5811DDBE-773C-48D8-BBC3-29B0D7A5C9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5811DDBE-773C-48D8-BBC3-29B0D7A5C9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5811DDBE-773C-48D8-BBC3-29B0D7A5C9A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F094A80-BFBA-4CCE-B5CB-DD3E62EE53BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F094A80-BFBA-4CCE-B5CB-DD3E62EE53BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F094A80-BFBA-4CCE-B5CB-DD3E62EE53BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F094A80-BFBA-4CCE-B5CB-DD3E62EE53BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C560D63D-E230-4463-8E41-82E4C1EE503A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C560D63D-E230-4463-8E41-82E4C1EE503A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C560D63D-E230-4463-8E41-82E4C1EE503A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C560D63D-E230-4463-8E41-82E4C1EE503A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+﻿Decorator Pattern
+
+This pattern interest with structural of object.Moreover,"Decorator Pattern" belongs to Structural Categories.
+For instance;
+Just think about a coffeeshop;
+when you go to Coffeeshop u want to a coffee and teller says u " Would u want to milk" and " Would u want to sugar" then i assume u say yes.Teller adds them to your coffer.As a conclusion,Did it change your coffer orginially? i mean it didn't change ur coffee to coke.It is coffee but teller added milk and sugar.This pattern same logic.
