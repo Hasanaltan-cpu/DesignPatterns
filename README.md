@@ -29,11 +29,11 @@ Separates object construction from its representation
 
 Creates an instance of several derived classes
 
-4-Object Pool
+[4-Object Pool](https://github.com/Hasanaltan-cpu/DesignPatterns/tree/master/ObjectPoolPattern)
 
 Avoid expensive acquisition and release of resources by recycling objects that are no longer in use
 
-5-Prototype
+[5-Prototype](https://github.com/Hasanaltan-cpu/DesignPatterns/tree/master/PrototypeDesignPattern)
 
 A fully initialized instance to be copied or cloned
 
@@ -47,7 +47,7 @@ These design patterns are all about Class and Object composition. Structural cla
 
 ![Image](https://gblobscdn.gitbook.com/assets%2F-MOvkEq9XcvZ_Ts2jyIl%2F-MP42KF8pbP8fIkpl3XV%2F-MP42rw8Xy3den1HbRnt%2Fsctrcal1.png?alt=media&token=b56a25ec-d0cf-4435-8b3c-86981269c354)
 
-1-Adapter
+[1-Adapter](https://github.com/Hasanaltan-cpu/DesignPatterns/tree/master/AdapterDesignPattern)
 
 Match interfaces of different classes
 
