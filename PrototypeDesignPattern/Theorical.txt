@@ -1,0 +1,7 @@
+﻿Prototype Design Pattern
+
+Prototype design pattern provides creating an object without "new" word usage.In addition to that; it creates new object faster and avoid of creating object expenses ( for instance;constructer with parameter)
+We have two copy type for objects;
+Shallow Copy and Deep Copy
+*Shallow copy works as coping memory adresses of object that's why it is superficial copy type and moreover new object will not be created.So it is not suitable for the prototype design pattern.
+*Deep Copy copies object one by one and we can assign between copied object and major object.

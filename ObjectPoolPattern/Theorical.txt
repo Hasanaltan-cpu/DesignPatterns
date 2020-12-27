@@ -1,0 +1,3 @@
+﻿Object Pool Pattern
+
+Using by this pattern gives an oppurtunity to use object from an object pool.I will use Singleton Pattern for managing from just one hand.This pattern prevent our project from creating unnecessery classes.We guess when we create a class our memory management is effected by this and it leads to allocation.Moreover .Net Framework use this pattern for SQL connection.

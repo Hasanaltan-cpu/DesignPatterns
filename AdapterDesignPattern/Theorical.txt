@@ -1,0 +1,4 @@
+﻿Adapter Design Pattern
+
+This design pattern uses for the situation that u have part of system and u want to adapt this to your system and by using adapter design pattern u will use that in your system.In real life u can think it as a Adapter for electricity socket.
+
