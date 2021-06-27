@@ -122,7 +122,7 @@ A way of notifying change to a number of classes
 
 Alter an object's behavior when its state changes
 
-10-Strategy
+[10-Strategy] (https://github.com/Hasanaltan-cpu/DesignPatterns-2/tree/master/WebApp.StrategyDP)
 
 Encapsulates an algorithm inside a class
 
