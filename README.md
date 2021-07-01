@@ -87,11 +87,11 @@ These design patterns are all about Class's objects communication. Behavioral pa
 
 
 
-[1-Chain of responsibility](https://github.com/Hasanaltan-cpu/DesignPatterns/tree/master/ChainOfResponsibilityPattern)
+[1-Chain of responsibility](https://github.com/Hasanaltan-cpu/DesignPatterns-2/tree/master/WebApp.ChainOfResponsibilityDP)
 
 A way of passing a request between a chain of objects
 
-2-Command
+[2-Command](https://github.com/Hasanaltan-cpu/DesignPatterns-2/tree/master/WebApp.CommandDP)
 
 Encapsulate a command request as an object
 
@@ -122,7 +122,7 @@ A way of notifying change to a number of classes
 
 Alter an object's behavior when its state changes
 
-[10-Strategy] ( https://github.com/Hasanaltan-cpu/DesignPatterns-2/tree/master/WebApp.StrategyDP )
+[10-Strategy](https://github.com/Hasanaltan-cpu/DesignPatterns-2/tree/master/WebApp.StrategyDP )
 
 Encapsulates an algorithm inside a class
 
